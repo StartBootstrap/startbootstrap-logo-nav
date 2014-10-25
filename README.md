@@ -1,2 +1,2 @@
-startbootstrap-logo-nav
-=======================
+Start Bootstrap - Logo Nav
+=========
