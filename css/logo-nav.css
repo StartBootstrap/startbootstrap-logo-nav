@@ -24,4 +24,5 @@ body {
     .navbar-fixed-top .navbar-brand {
         padding: 15px 0;
     }
+    .navbar > .container .navbar-brand { margin-left:0;}
 }
