@@ -1,7 +1,7 @@
 {
   "title": "Logo Nav",
   "name": "startbootstrap-logo-nav",
-  "version": "4.0.0-beta",
+  "version": "4.0.0-beta.2",
   "description": "A Bootstrap template with a logo in the navbar",
   "keywords": [
     "css",
@@ -26,9 +26,8 @@
     "url": "https://github.com/BlackrockDigital/startbootstrap-logo-nav.git"
   },
   "dependencies": {
-    "bootstrap": "^4.0.0-beta",
-    "jquery": "^3.2.1",
-    "popper.js": "^1.11.1"
+    "bootstrap": "^4.0.0-beta.2",
+    "jquery": "^3.2.1"
   },
   "devDependencies": {
     "browser-sync": "2.18.13",
