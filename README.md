@@ -1,3 +1,5 @@
+*This template has been replaced with a snippet on Start Bootstrap. The repository for this template has been archived, and will receive no future updates. [Click here](https://startbootstrap.com/snippets/navbar-logo/) to view the actively developed snippet for this template on Start Bootstrap.*
+
 # [Start Bootstrap - Logo Nav](https://startbootstrap.com/template-overviews/logo-nav/)
 
 [Logo Nav](http://startbootstrap.com/template-overviews/logo-nav/) is a navigation bar template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template replaces the default navbar brand text with an image.
